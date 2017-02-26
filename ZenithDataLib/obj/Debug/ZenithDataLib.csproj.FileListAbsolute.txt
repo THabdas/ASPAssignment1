@@ -1,0 +1,13 @@
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\ZenithDataLib.dll.config
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\ZenithDataLib.dll
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\ZenithDataLib.pdb
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\EntityFramework.dll
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\EntityFramework.SqlServer.dll
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\EntityFramework.xml
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\EntityFramework.SqlServer.xml
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\obj\Debug\ZenithDataLib.dll
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\obj\Debug\ZenithDataLib.pdb
