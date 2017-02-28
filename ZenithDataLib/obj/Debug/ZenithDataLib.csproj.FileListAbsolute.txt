@@ -11,3 +11,4 @@ E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity
 E:\ZenithSociety\ZenithSociety\ZenithDataLib\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 E:\ZenithSociety\ZenithSociety\ZenithDataLib\obj\Debug\ZenithDataLib.dll
 E:\ZenithSociety\ZenithSociety\ZenithDataLib\obj\Debug\ZenithDataLib.pdb
+E:\ZenithSociety\ZenithSociety\ZenithDataLib\obj\Debug\ZenithDataLib.csprojResolveAssemblyReference.cache

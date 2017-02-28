@@ -16,19 +16,22 @@ namespace ZenithWebSite.Migrations.Identity
                         CreationDate = c.DateTime(nullable: false),
                     })
                 .PrimaryKey(t => t.ActivityId);
-
+            
             CreateTable(
                 "dbo.Events",
                 c => new
-                {
-                    EventId = c.Int(nullable: false, identity: true),
-                    EventFrom = c.DateTime(nullable: false),
-                    EventTo = c.DateTime(nullable: false),
-                    Username = c.String(),
-                    CreationDate = c.DateTime(nullable: false),
-                    IsActive = c.Boolean(nullable: false),
-                })
-                .PrimaryKey(t => t.EventId);
+                    {
+                        EventId = c.Int(nullable: false, identity: true),
+                        EventFrom = c.DateTime(nullable: false),
+                        EventTo = c.DateTime(nullable: false),
+                        Username = c.String(),
+                        CreationDate = c.DateTime(nullable: false),
+                        IsActive = c.Boolean(nullable: false),
+                        Activity_ActivityId = c.Int(),
+                    })
+                .PrimaryKey(t => t.EventId)
+                .ForeignKey("dbo.Activities", t => t.Activity_ActivityId)
+                .Index(t => t.Activity_ActivityId);
             
             CreateTable(
                 "dbo.AspNetRoles",
